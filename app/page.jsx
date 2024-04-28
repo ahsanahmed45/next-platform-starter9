@@ -8,7 +8,7 @@ import { getNetlifyContext } from 'utils';
 const cards = [
     //{ text: 'Hello', linkText: 'someLink', href: '/' }
 ];
-
+ <h1 className="mb-0 custom-font">Make it an incredible journey</h1>
 const contextExplainer = `
 Emirates Airlines, headquartered in Dubai, is one of the global carriers that is very popular for its highly luxurious style of flying and its superior-to-the-rest services. 
 `;
