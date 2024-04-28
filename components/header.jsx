@@ -3,7 +3,7 @@ import Link from 'next/link';
    
  const navItems = [
     { linkText: 'Home', href: '/' },
-   { linkText: 'Revalidation', href: '/revalidation' }
+   { linkText: 'About Us', href: '/revalidation' }
 ];
     
 
