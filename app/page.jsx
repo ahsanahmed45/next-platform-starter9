@@ -46,15 +46,18 @@ export default function Page() {
                     Read the Docs
                 </Link>
             </section>
+
+<h1 className="mb-0">Student Names:</h1>
+        <p className="text-lg">Aisha, Mohammed Salman, Sultan Taher, Sultan Alhajri</p>      
             {!!ctx && (
                 <section className="flex flex-col gap-4">
                     <Markdown content={contextExplainer} />
-                    <img key={key} src={images[key]} alt="https://c.ekstatic.net/ecl/aircraft-exterior/boeing-777/boeing-777-300er-flying-in-sunny-blue-sky-t1024x480.jpg" />
+<img src="https://thumbs.dreamstime.com/z/banner-inscription-flights-to-united-arab-banner-inscription-flights-to-united-arab-emirates-blue-107127486.jpg" />
                 </section>
             )}
             <section className="flex flex-col gap-4">
                 <Markdown content={preDynamicContentExplainer} />
-                <img key={key} src={images[key]} alt="https://c.ekstatic.net/ecl/aircraft-exterior/boeing-777/boeing-777-300er-flying-in-sunny-blue-sky-t1024x480.jpg" />
+<img src="https://thumbs.dreamstime.com/z/banner-inscription-flights-to-united-arab-banner-inscription-flights-to-united-arab-emirates-blue-107127486.jpg" />
                 <Markdown content={postDynamicContentExplainer} />
             </section>
           
