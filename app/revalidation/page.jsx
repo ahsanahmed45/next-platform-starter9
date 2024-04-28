@@ -12,28 +12,17 @@ const maxExtractLength = 200;
 const revalidateTTL = 60;
 
 const explainer = `
-This page perfoms a \`fetch\` on the server to get a random article from Wikipedia. 
-The fetched data is then cached with a tag named "${tagName}" and a maximum age of ${revalidateTTL} seconds.
+Emirates Airlines, headquartered in Dubai, is one of the global carriers that is very popular for its highly luxurious style of flying and its superior-to-the-rest services. Apart from Emirates which was established in 1985, the airline is now-a-days regarded as the biggest global powerhouse that links millions of passengers with more than 150 destinations around 6 continents (Rawashdeh et al., 2022).
 
-~~~jsx
-const url = 'https://en.wikipedia.org/api/rest_v1/page/random/summary';
 
-async function RandomArticleComponent() {
-    const randomArticle = await fetch(url, {
-        next: { revalidate: ${revalidateTTL}, tags: ['${tagName}'] }
-    });
-    // ...render
-}
-~~~
+Flow Chart of the Performance Management Process
+•	Step 1: Goal Setting: Employee and managers involvement in the goal setting exercise is crucial and they jointly work to develop SMART goals linked with the company’s strategic policies.
+•	Step 2: Performance Monitoring: Managers are constantly responsible for employees' performance based on the pursuits of ongoing feedback, coaching, and performance evaluation.
+•	Step 3: Performance Evaluation: Formal performance evaluations are periodically commenced to check employee's success towards their targets and to give them summarized feedback.
+•	Step 4: Development Planning: While performance appraisals are done to determine the deficient areas for each individual, these are next utilized in creating development plans to accommodate workers' skills deficiency and development requirements
+•	Step 5: Small Bonuses and Appreciation: Workers with high results are appreciated by loyalty bonus systems, promotion to higher positions connected to their jobs as well as other rewards (Murphy, 2020).
 
-After the set time has passed, the first request for this page would trigger its rebuild in the background. When the new page is ready, subsequent requests would return the new page - 
-see [\`stale-white-revalidate\`](https://www.netlify.com/blog/swr-and-fine-grained-cache-control/).
 
-Alternatively, if the cache tag is explicitly invalidated by \`revalidateTag('${tagName}')\`, any page using that tag would be rebuilt in the background when requested.
-
-In real-life applications, tags are typically invalidated when data has changed in an external system (e.g., the CMS notifies the site about content changes via a webhook), or after a data mutation made through the site.
-
-For this functionality to work, Next.js uses the [fine-grained caching headers](https://docs.netlify.com/platform/caching/) available on Netlify - but you can use these features on basically any Netlify site!
 `;
 
 
@@ -45,7 +34,7 @@ export default async function Page() {
 
     return (
         <>
-            <h1>Revalidation Basics</h1>
+            <h1>About Emirate</h1>
             <Markdown content={explainer} />
             <form className="mt-4" action={revalidateWiki}>
                 <SubmitButton text="Click to Revalidate" />
