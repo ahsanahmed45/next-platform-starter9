@@ -37,7 +37,7 @@ export default async function Page() {
 
     return (
         <>
-            <h1>Revalidation Basics</h1>
+            <h1>About Emirates Airlines</h1>
             <Markdown content={explainer} />
             <form className="mt-4" action={revalidateWiki}>
                 <SubmitButton text="Click to Revalidate" />
