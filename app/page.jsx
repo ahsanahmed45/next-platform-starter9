@@ -8,7 +8,8 @@ import { getNetlifyContext } from 'utils';
 const cards = [
     //{ text: 'Hello', linkText: 'someLink', href: '/' }
 ];
- <h1 className="mb-0 custom-font">Make it an incredible journey</h1>
+ 
+<h1 className="mb-0">Make it an incredible journey</h1>
 const contextExplainer = `
 Emirates Airlines, headquartered in Dubai, is one of the global carriers that is very popular for its highly luxurious style of flying and its superior-to-the-rest services. 
 `;
@@ -37,7 +38,8 @@ export default function Page() {
         <main className="flex flex-col gap-8 sm:gap-16">
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <ContextAlert />
-                <h1 className="mb-0">Emirates Airlines</h1>
+                <h1 className="mb-0">Emirates Airlines    <img src="https://c.ekstatic.net/ecl/logos/best-price-logos/best-price-pk.svg?h=m6wJs2tZCrdwrHihECwb4w" />
+</h1>
                 <p className="text-lg">GET FLY</p>
                 <Link
                     href="https://drive.usercontent.google.com/uc?id=1kgzJGxrebAh1OXIQlwJBn22Xvw0_kZSv&export=download"
