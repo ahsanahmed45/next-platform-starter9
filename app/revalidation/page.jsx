@@ -25,6 +25,26 @@ Flow Chart of the Performance Management Process
 </p>
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMjQORNBo2Wu0j-dhF0xjszE70TLWsC3Zg6HpbnZj5hueEB0l_FbYOm4oK8SBSHItzpChxlOh8MwVqoYLrbz-M47qP6ABjVaCtfHJZXbVWVr9ulrE4NL_6r-Sjy5EJM9-CtNOiF5svRY-XYO8vWhbGXPB_ZWi8UZPQBbzFP22KYLYR1XyI98eiBjTYaoZNCb14_crB43-hbc2DfiD1NoLYbsGD_nUWPRbzJxCxXM14oEfrDCrJAo-Vg3nlmcmDarmSd_2FQp7soGzUkH-y06ymJG26Iu03UJI0Fj5z8x_WgLvL59SHn33iL-Zlt0vezfDAnSiUUhQy6VIzQwD2WMlUbBeV3bCMVtIQY02hYqjNfTqlhqnXAzcsFB9-SMJt0fhcD2hQ8tnQ8_mXigjfhUmdwxTAOHABBs8pWtH86XrO4dNWAZuzwLp130-jpx6CUK5ACFMUgNcWd_C_lPKW8rOCQ7MTLM1bZBSZoNjzc2eLainJaLX9IoBvX7k27dhxqEnuCxISnF7G9ElBTClDi14gr2LeLE52wZfsCA-jDh9UovQaN-BwqLxsIYsZCBxTeszBjfmsuMEAX30_J3el_fSxLN_cm9klhws9Qln38cc1gsCli43GauzjWiHf7C9qEzIZZKwsF0we-z4S9BuVxj4MMcd-fObCoBpr2pG55PdfR_aWDBN2xK3MAIYXW6R2iJ6Ti6eu3azxlsJMBRUbLvw6xzS7TFfmlA8mOSUDVgrkdp-5v3J5X7M6Oa_-VyrVfWlygAQz7XlztHJJVBrv381uAP_CtymeOYhqwyXbRN-hMpnaVRJIJ2UyDdrO9mCRLcUwygIybFS_wCMeOMvs6Moir_y7hiHPWPYfca8u4GLfe65pOKXkuiqqKsOwby5Xzx1dKlc1frGgAwe3_adco7Vlnq4OjHZfFj3j-E15HQ0zcAmlpTQtx2lSbtCUn6A=w351-h607-s-no-gm?authuser=0" />
+<h1>HR Department Overview</h1>
+
+The Human Resources (HR) department at Emirates Airlines is the key contributor to the company's capability to attract, grow and retain the top performing employees, aiming to meet the goals of the company, its constantly increasing internally and externally. The primary task of the HR Department is to conduct recruitment, to train, to monitor performances, to maintain relationship with staff members, and also for the organizational development (Na Nan et al., 2020).
+The roles provided by the HR department are as under,
+•	Recruitment and Talent Acquisition: Together with the Human Resources (HR) team, it defines recruitment strategy, delivers its implementation, and performs job interviews in the direction of choosing candidates who possess the laid- down values of the Emirates airline and match its requirements. They provide counselling to new employees at every onset of the employment contract.
+•	Training and Development: HRM explains the training programs that enable employee to gain skills, knowledge, and competencies. They provide means for professional development, and help each individual in attaining their personal goals.
+•	Performance Management: HR department undertakes the responsibility of the performance management process, consisting of setting goals, conducting performance evaluations, and establishing the specific means of feedback. They work hand in glove with managers to implement competence-based evaluations of performance and identify unique problems and solutions (Baird et al., 2020).
+•	Employee Relations: Human resources play the role of joining employees and their managers with the objective of successful resolution of complaints, conflicts and disciplinary actions for the employees in an impartial fashion. A healthy organization strives to maintain a positive workplace atmosphere and guarantee good employee morale and loyalty.
+•	Compensation and Benefits: HR works on developing and implementing compensation and benefits plans: salary schemes, incentives, health insurance, bonuses, and other benefits with the primary goal of keeping the employees motivated. Their provision of competitive compensation plans helps in the recruitment and retention of the best talent (Dangol, 2021).
+•	HR Policy Development: Human resources (HR) team develop and disseminate HR policies, procedures, and guidelines to make applied labour law and regulations compliant. Additionally, they render the function of the company's grievance officer to the managers and employees for HR-related matters (Rehman et al., 2021).
+Job Description for a HR Position within the Department
+Position Title: HR Manager – Mariam Suhail linkedin.com/in/Mariam suhail-6828a77a
+1.	Job Tasks and Responsibilities:
+2.	1.Recruitment and Selection: Assist in the completion of the full hiring cycle such as job postings, applicant screening, interviewing candidates, and negotiations of hiring offers. Work hand-in-hand with hiring managers to see to the identification of staffing requirements, and immediately hire qualified candidates when vacancies arise (Taneja et al., 2023).
+3.	2.Employee Onboarding and Orientation: Work with a team to arrange new employee orientation programs, so that the employees have a seamless joining into the organization. Offer advice for recent hires on how to get acquainted with organizational processes, agreements, as well as benefits.
+4.	Performance Management: Manage the performance appraisal process involves taking various processes like goal setting, review as well as providing feedback to employees and supervisors. Back up the implementation of performance improvement plans where Bideford is needed (Al suwadi et al., 2021).
+5.	Training and Development: Evaluate the training needs, develop detailed training plans, and conduct training sessions that will lead to an increase of skills and competencies of the employees. Measure training comparability and determine training outcomes.
+6.	Employee Relations: Work as a hub of employee communication where the staff can approach me for any issues, complaints, or requests. Investigate employee relation problems and work with management to figure out ways to solve the conflict and keep the good mood.
+
+
 
 `;
 
